@@ -1,7 +1,7 @@
 
 # MetaFBP: Learning to Learn High-Order Predictor for Personalized Facial Beauty Prediction
 - 🔔This is the official (Pytorch) implementation for the paper "MetaFBP: Learning to Learn High-Order Predictor for Personalized Facial Beauty Prediction", ACM MM 2023.
-- 🛖This repository is built on the [dragen1860/MAML-Pytorch](https://github.com/dragen1860/MAML-Pytorch). You can also view the project for details: [https://github.com/KaiyangZhou/Dassl.pytorch](https://github.com/dragen1860/MAML-Pytorch)
+- 🛖This repository is built on the [dragen1860/MAML-Pytorch](https://github.com/dragen1860/MAML-Pytorch). You can also view the project for details: [https://github.com/dragen1860/MAML-Pytorch](https://github.com/dragen1860/MAML-Pytorch)
 
 # 🛠️Setup
 ## Runtime
