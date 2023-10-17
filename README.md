@@ -50,7 +50,7 @@ MetaFBP/
     ```shell
     bash train_fea.sh PFBP-SCUT5500
     bash train_fea.sh PFBP-SCUT500
-    bash PFBP-US10K
+    bash train_fea.sh PFBP-US10K
     ```
     Usage of `train_fea.sh`:
     ```text
