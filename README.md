@@ -16,7 +16,7 @@ Please create a directory named `datasets` in current directory, then download t
 
 Download link: [GoogleDrive](https://drive.google.com/file/d/1kVqJyvrrJ1XqWWhY0yAWHM-ZzlHnnxFJ/view?usp=sharing) or [Quark](https://pan.quark.cn/s/aee85ace01e6)
 
-You can also change the root directory of datasets by modifying the default value of the arguments `--data-root` in [train_fea.py](train_fea.py)[L34], [train.py](train.py)[L40], and [test.py](test.py)[L59]:
+You can also change the root directory of datasets by modifying the default value of the argument `--data-root` in [train_fea.py](train_fea.py)[L34], [train.py](train.py)[L40], and [test.py](test.py)[L59]:
 ```python
     # train_fea.py, Line 34
     parser.add_argument('--data-root', type=str, default='./datasets')
