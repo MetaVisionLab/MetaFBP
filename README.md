@@ -74,7 +74,7 @@ If you would like to cite our work, the following bibtex code may be helpful:
 ```text
 @inproceedings{lin2023metafbp,
     title={MetaFBP: Learning to Learn High-Order Predictor for Personalized Facial Beauty Prediction},
-    author={Luojun Lin, Zhifeng Shen, Jia-Li Yin, Qipeng Liu, Yuanlong Yu, and Weijie Chen},
+    author={Lin, Luojun and Shen, Zhifeng and Yin, Jia-Li and Liu, Qipeng and Yu, Yuanlong and Chen, Weijie},
     booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
     year={2023},
 }
